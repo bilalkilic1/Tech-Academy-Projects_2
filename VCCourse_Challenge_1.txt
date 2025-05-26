@@ -1,0 +1,1 @@
+Code reviews and quality checks are vital components of a robust version control workflow.
